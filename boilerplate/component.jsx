@@ -1,15 +1,15 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import './%scss';
+import React from 'react'
+import PropTypes from 'prop-types'
+import './%scss'
 
 class %component extends React.Component {
     render() {
-        return ();
+        return ()
     }
 }
 
 %component.propTypes = {
 
-};
+}
 
-export default %component;
+export default %component
