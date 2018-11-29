@@ -3,8 +3,8 @@ import PropTypes from 'prop-types'
 import './%scss'
 
 class %component extends React.Component {
-    constructor() {
-        super()
+    constructor(props) {
+        super(props)
     }
 
     render() {
